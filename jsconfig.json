@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": "src"
+  },
+  "include": ["src"],
+  "typeAcquisition": {
+    "enable": true,
+    "include": ["react", "react-dom",]
+  },
+  "exclude": ["node_modules"],
+  
+}
