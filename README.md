@@ -2,4 +2,3 @@
 
 ## Deployment: [Look here](https://MariaGuk.github.io/LA-Project)
 
-gh-pages
