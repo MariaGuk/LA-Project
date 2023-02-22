@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/MariaGuk/LA-Project/precache-manifest.7281aae1d2510515c20ef7f7c65a5e49.js"
+  "/LA-Project/precache-manifest.a038a2f8b9556a14a9fcf30f93a9c49a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/MariaGuk/LA-Project/index.html", {
+workbox.routing.registerNavigationRoute("/LA-Project/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
